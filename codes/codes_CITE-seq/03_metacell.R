@@ -27,7 +27,7 @@ select_al <- c("CD13", "CD24", "CD44", "CD49f", "CD54",
 dsb.norm = TRUE
 
 
-# 计算metacell =================================================================
+# metacell =================================================================
 
 plan(multisession, workers = length(allexp))
 options(future.globals.maxSize = 20000*1024^2)
