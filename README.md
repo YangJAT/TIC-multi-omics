@@ -3,8 +3,8 @@
 Tumor-initiating cells (TICs) play a crucial role in cancer metastasis and relapse. Their immune evasion might explain many failures of immunotherapy. Here we performed cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq) on hepatocellular carcinoma (HCC) organoids, focusing on surface markers related to TIC and immunosuppression. We identified CD49f as an essential TIC marker in HCC, characterized by low expression variability and significant stemness relevance across various tumors. CD49f-high TICs foster the development of an immunosuppressive milieu, attracting neutrophils via CXCL2. Neutrophil-derived CCL4 sustains tumor stemness and confers immune privilege to TICs, facilitating their evasion of CD8+ T cell-mediated killing in a CD155-dependent manner. Clinical data suggests that CD155 could impair anti-PD-1/PD-L1 therapy response in HCC patients. In both orthotopic and spontaneous HCC mouse models, depleting or blocking CD155 can enhance the therapeutic effectiveness of anti-PD-1 therapy, which involves the disruption of the reciprocal crosstalk between TICs and neutrophils. 
 
 ## Session information
-R (v4.2.1) 
-Python (v3.9)
+* R (v4.2.1) 
+* Python (v3.9)
 Seurat (v4.3.0.1)
 Scanpy (v1.9.3)
 scvi-tools - totalVI (v0.20.3)
